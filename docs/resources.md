@@ -11,7 +11,7 @@ layout: tabbed-assignment
 * [Lesson][]
 {% endif %}
 {% if site.data.assignment.template %}
-* [Submission Template][template]
+* [Project Design Document Template][template]
 {% endif %}
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
