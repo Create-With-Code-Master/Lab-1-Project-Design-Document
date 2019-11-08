@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. Make a copy of the **[Project Design Document][template] (PDD) **.
+1. Make a copy of the **[Project Design Document][template] (PDD)**.
 1. Watch the **[lesson videos][lesson]** to understand the scope of the project and how to proceed.    
 1. After watching the videos, start filling out the PDD.
 
